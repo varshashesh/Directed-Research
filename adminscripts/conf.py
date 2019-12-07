@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'adminscripts'
+project = u'i3'
 copyright = u'2019, varshashesh'
 author = u'varshashesh'
 
